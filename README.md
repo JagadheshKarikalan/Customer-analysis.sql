@@ -24,4 +24,4 @@ To analyze customer payment behavior and rank customers by total revenue within 
 - ORDER BY for ranking
 - Business-driven SQL analysis
 
-## Sample Query
+
